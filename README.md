@@ -1,4 +1,4 @@
-# Twitter-X--clone
+# Twitter-X-clone
 Simple Twitter/X home page Ui clone
 
 ## Made Using
